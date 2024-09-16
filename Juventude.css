@@ -1,0 +1,38 @@
+.Poema {
+    text-align: center;
+    font-size: x-large;
+   
+}
+
+.Autor {
+    text-align: center;
+    font-size: larger;
+}
+
+.Versos1 {
+     text-align: center;
+     line-height: 0.3;
+     font-size: larger;
+     padding-bottom: 1%;
+}
+
+.Versos2 {
+    text-align: center;
+    line-height: 0.3;
+    font-size: larger;
+    padding-bottom: 1%;
+}
+
+.Versos3 {
+    text-align: center;
+    line-height: 0.3;
+    font-size: larger;
+    padding-bottom: 1%;
+}
+
+.Versos4 {
+    text-align: center;
+    line-height: 0.3;
+    font-size: larger;
+    padding-bottom: 1%;
+}
